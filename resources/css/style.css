@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#top_list,
+#body {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+#our {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
